@@ -1,0 +1,8 @@
+streamlit
+pandas
+gspread
+google-auth-oauthlib
+plotly
+paramiko
+tqdm
+openpyxl
